@@ -1,0 +1,10 @@
+In the beginning, machines were designed to follow human instructions.
+However, with the advent of artificial intelligence, machines have started learning on their own.
+This corpus is a collection of sentences to train the BasicTokenizer.
+Feel free to expand this file with more data to make the tokenizer better.
+Natural language processing is the key to many AI-powered applications.
+Tokenizers play a crucial role in transforming text into machine-readable formats.
+Machine learning models often require text to be split into smaller chunks called tokens.
+This process is essential in many NLP tasks such as sentiment analysis, translation, and summarization.
+By training a tokenizer, we can effectively break down sentences into meaningful units.
+With more training data, the tokenizer becomes more efficient at handling complex sentences.
