@@ -1,4 +1,4 @@
-#🚀 LLM Mastery in 30 Days
+# 🚀 LLM Mastery in 30 Days
 
 
 Embark on a transformative, step-by-step journey through the world of Large Language Models (LLMs) with this immersive 30-day course. From foundational concepts to deploying real-world applications, this course is designed to empower you to build, train, and deploy your own LLMs, one day at a time.
