@@ -1,6 +1,38 @@
-# LLM Mastery in 30 Days
+#🚀 LLM Mastery in 30 Days
 
-# Contents Covered - Day Wise
+
+Embark on a transformative, step-by-step journey through the world of Large Language Models (LLMs) with this immersive 30-day course. From foundational concepts to deploying real-world applications, this course is designed to empower you to build, train, and deploy your own LLMs, one day at a time.
+
+---
+
+### **🌟 What You’ll Learn:**
+
+**🧠 Transformers Uncovered:**
+- 🔍 **Foundational Concepts**: Explore the core ideas behind transformers, including attention mechanisms, tokenization, and various transformer types.
+- 📜 **Paper & Theory**: Study the breakthrough "Attention is All You Need" paper and gain insights into how it revolutionized the field.
+- 🔧 **Hands-On Implementation**: Code a transformer from scratch in PyTorch, with deep dives into each part, from positional encoding to different attention mechanisms.
+
+**🛠️ Building the Model - Architectural Mastery:**
+- 🎯 **Positional Encoding & Attention Mechanisms**: Understand each component of transformer architecture, experimenting with positional encodings and attention mechanisms.
+- 🔍 **Pretraining Essentials**: Gather and process data, create PyTorch datasets, and gain hands-on experience building a miniature version of Llama3 for a solid grasp of pretraining.
+
+**🚀 Advanced Fine-Tuning & Evaluation:**
+- 💡 **Fine-Tuning Techniques**: Master fine-tuning approaches, such as LoRA, SFT (Supervised Fine-Tuning), and Hugging Face workflows, to tailor models for specific tasks.
+- 🧪 **Evaluation Metrics**: Measure model performance with tools like perplexity, and fine-tune for specialized applications with metrics that ensure high-quality results.
+- 🔄 **Quantization & Optimization**: Streamline your model using techniques like quantization, pruning, and distillation for improved efficiency.
+
+**💡 Real-World Applications & Deployment:**
+- 🛠️ **RAG & Agent Building**: Build a Retrieval-Augmented Generation (RAG) model from scratch and design simple agents capable of handling real-world NLP tasks.
+- 🌐 **Deploying Your Model**: Use frameworks like Ollama and LitServe to serve your model live, making it accessible to users via a web-ready NLP application.
+- 🔄 **Model Merging & MOE**: Experiment with model merging techniques and Mixture of Experts (MoE) architectures to enhance model capabilities.
+
+---
+
+With **step-by-step guidance**, **daily coding exercises**, and **practical deployment** examples, **🚀 30 Days to LLM Mastery** will make you an LLM expert, ready to create, fine-tune, and deploy powerful language models. Join us and transform your skills in the world of LLMs!
+
+---
+
+# 📜 Contents Covered - Day Wise
 
 Here are the contents which are covered day wise with the topics and links provided for each day
 
@@ -16,3 +48,4 @@ Here are the contents which are covered day wise with the topics and links provi
 | Day 7 | LLM Pretraining Course - Master LLM Pretraining in 1 Hour       | [Video](https://www.youtube.com/watch?v=21EejfdJYIU)                    | [Code](https://github.com/Vasanth51430/LLM_Mastery_In_30_Days/tree/main/Day7)                        |
 | Day 8 | Build MiniGPT 2 From Scratch                                    | [Video](https://www.youtube.com/watch?v=H3PY4gUEkd8)                    | [Code](https://github.com/Vasanth51430/LLM_Mastery_In_30_Days/tree/main/Day8)                        |
 
+---
