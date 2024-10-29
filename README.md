@@ -32,6 +32,13 @@ With **step-by-step guidance**, **daily coding exercises**, and **practical depl
 
 ---
 
+# 📜 Contents Covered - Week Wise
+
+| Week   | Contents  | Video Link | 
+|--------|-----------|------------|
+| Week 1 | Transformers Introduction, Types, Tokenizers Working, Transformers Indepth Math, Transformers Scratch Implementation, Architectural Advancements in Positional Encoding and Attention, LLM Pretraining Guide | [Video](https://youtu.be/xkv6GbMIe4g)
+
+
 # 📜 Contents Covered - Day Wise
 
 Here are the contents which are covered day wise with the topics and links provided for each day
